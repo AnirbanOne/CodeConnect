@@ -86,7 +86,7 @@ const Page = () => {
         }}
       >
         <Card>
-          <CardHeader title="Sing-up" />
+          <CardHeader title="Sign-up" />
           <CardContent>
             <form
               onSubmit={(e) => {
