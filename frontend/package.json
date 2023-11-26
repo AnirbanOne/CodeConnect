@@ -18,6 +18,7 @@
     "@reduxjs/toolkit": "^1.9.7",
     "@uiw/react-md-editor": "^3.24.1",
     "@uiw/react-textarea-code-editor": "^2.1.9",
+    "apexcharts": "^3.44.0",
     "axios": "^0.25.0",
     "micromark": "^4.0.0",
     "monaco-themes": "^0.4.4",
